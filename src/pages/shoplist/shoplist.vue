@@ -1,6 +1,6 @@
 <template>
     <view>
-        23456789
+        2345678910
         <item v-for="item in list" :key="item.Id"
         :bigImage="item.thumImage"
         :name="item.name"
