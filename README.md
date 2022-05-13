@@ -1,6 +1,6 @@
 # miniprogram
 
-## Project setup test test
+## Project setup test test test
 ```
 npm install
 ```
